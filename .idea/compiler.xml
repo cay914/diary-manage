@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="diary-app" />
+        <module name="diary-common" />
+        <module name="diary-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.7">
+      <module name="diary-app" target="1.7" />
+      <module name="diary-common" target="1.7" />
+      <module name="diary-parent" target="1.7" />
+      <module name="diary-web" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

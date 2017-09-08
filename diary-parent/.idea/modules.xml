@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../DIA-app/DIA-app.iml" filepath="$PROJECT_DIR$/../DIA-app/DIA-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DIA-common/DIA-common.iml" filepath="$PROJECT_DIR$/../DIA-common/DIA-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DIA-parent/DIA-parent.iml" filepath="$PROJECT_DIR$/../DIA-parent/DIA-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../DIA-web/DIA-web.iml" filepath="$PROJECT_DIR$/../DIA-web/DIA-web.iml" />
+    </modules>
+  </component>
+</project>

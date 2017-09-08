@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="DIA-web:war">
+    <output-path>$PROJECT_DIR$/../DIA-web/target</output-path>
+    <root id="archive" name="DIAweb.war">
+      <element id="artifact" artifact-name="DIA-web:war exploded" />
+    </root>
+  </artifact>
+</component>
