@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/diary-app/diary-app.iml" filepath="$PROJECT_DIR$/diary-app/diary-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diary-common/diary-common.iml" filepath="$PROJECT_DIR$/diary-common/diary-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diary-manage.iml" filepath="$PROJECT_DIR$/diary-manage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diary-parent/diary-parent.iml" filepath="$PROJECT_DIR$/diary-parent/diary-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/diary-web/diary-web.iml" filepath="$PROJECT_DIR$/diary-web/diary-web.iml" />
+    </modules>
+  </component>
+</project>
